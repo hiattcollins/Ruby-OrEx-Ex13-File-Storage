@@ -1,0 +1,12 @@
+C=Cruze
+C=Chevelle
+C=Tahoe
+F=F150
+F=Focus
+F=Taurus
+T=Camry
+T=Corolla
+T=LandCruiser
+V=GTI
+V=Jetta
+V=Passat
